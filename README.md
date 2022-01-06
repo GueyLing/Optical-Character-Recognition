@@ -19,7 +19,7 @@ Output
 
 b. Iron OCR
 1. Convert scanned pdf to searchable pdf by using Iron OCR.
-2. Image processing.
+2. Image processing. (If necessary only)
 3. Define the coordinates to extract data from specific region.
 4. Text extracted will be saved in the txt file.
 
