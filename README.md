@@ -1,7 +1,7 @@
 Extract text from scanned pdf 
 Three methods used (Tesseract, Iron OCR, Google Vision API)
 
-a. Tesseract
+a. 
 Tesseract is a popular open source library for OCR.
 1. Convert pdf to image file (jpg/png) using Syncfusion library.
 2. Crop the picture by defining the region coordinates.
