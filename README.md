@@ -1,9 +1,8 @@
 # Optical Recognition Character (OCR)
-This is a real-world project. Confidential information is not disclosed.<br>
+This is a real-world project. Confidential information is not disclosed.<br><br>
 <b>Language:</b> C# <br>
 <b>Framework:</b> .NET <br>
 <b>Software Application Used:</b> Micorost Visual Studio
-
 <br>
 <h2> Program Description </h2>
 Extract text from scanned pdf using OCR engines such as Tesseract and Iron OCR. By performing OCR, businesses are able to eliminate the need for manual data entry. All the data can be extracted from the documents and saved into the database automatically. It helps to save time and manpower.<br><br>
