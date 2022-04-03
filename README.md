@@ -1,5 +1,5 @@
 # Optical Recognition Character (OCR)
-This is a real-world project. Confidential information is not disclosed.
+This is a real-world project. Confidential information is not disclosed.<br>
 <b>Language:</b> C# <br>
 <b>Framework:</b> .NET <br>
 <b>Software Application Used:</b> Micorost Visual Studio
