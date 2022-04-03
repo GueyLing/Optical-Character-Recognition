@@ -13,8 +13,8 @@ a. Tesseract
 3. Image processing to enhance the quality of the scanned pdf using ImageMagick library. (e.g. adjust brightness, contrast, remove noise, remove lines) 
 4. Pass the processed image to Tesseract for OCR. The output will be saved in the txt file.
 
-b. Iron OCR
-1. Convert scanned pdf to searchable pdf by using Iron OCR.
+b. IronOCR
+1. Convert scanned pdf to searchable pdf by using IronOCR.
 2. Image processing. (If necessary only)
 3. Define the coordinates to extract data from specific region.
 4. Text extracted will be saved in the txt file.
